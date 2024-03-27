@@ -1,0 +1,6 @@
+Line 1: Hello, world!
+Line 2: 12345
+Line 3: Python is awesome!
+Line 4: Adding more content
+Line 5: 98765
+Line 6: File handling in Python
